@@ -1,4 +1,1 @@
-# NMT-with-attention-EN_to_FA
-
-
-Neural Machine Translation - with attention mechanism
+English to Farsi(Persian) Neural Machine Translation with attention mechanism
